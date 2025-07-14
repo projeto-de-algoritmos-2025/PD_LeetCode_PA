@@ -46,6 +46,7 @@ A questão Dungeon Game propõe calcular a quantidade mínima de vida que um cav
 
 
 ## Vídeo de explicação das Questões:
+https://github.com/user-attachments/assets/b01d0337-f599-44c1-94be-d06fba95b92e
 
 ## Instalação 
 **Linguagem**: Python <br>
