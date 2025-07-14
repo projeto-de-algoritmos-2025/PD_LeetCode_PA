@@ -34,6 +34,11 @@ A questão "1140. Stone Game II" propõe um jogo entre Alice e Bob, que alternam
 
 ![Print resolução da questão 1255](/imgs/1140img.png)
 
+### [198. House Robber](https://leetcode.com/problems/house-robber/description/) - Média
+
+A questão House Robber propõe encontrar o valor máximo que pode ser roubado de uma sequência de casas, com a restrição de que não é possível roubar duas casas adjacentes. A função recursiva dp(i) calcula o valor máximo a partir da casa i, escolhendo entre roubar a casa atual e pular a próxima ou pular a atual e considerar a seguinte. Com @lru_cache, evitamos recomputações, garantindo eficiência. O resultado final, dp(0), representa o valor máximo possível sem disparar o sistema de segurança. Utilizei PD na resolução dividindo o problema em subproblemas menores e armazenar os resultados parciais. Em vez de recalcular o valor máximo para cada posição, a função dp(i) guarda o melhor resultado a partir da casa i, evitando repetições e garantindo eficiência.
+![Print resolução da questão 198](/imgs/198_img.png)
+
 
 ## Vídeo de explicação das Questões:
 
