@@ -19,8 +19,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 **Linguagem**: xxxxxx<br>
 
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
 
 
 
