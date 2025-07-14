@@ -16,8 +16,8 @@ Resolução de questões do LeetCode (2 difíceis e 2 médias) pelos integrantes
 | -- | -- |
 | [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/)  | Difícil |
 | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) | Média |
-|  |   Difícil |
-|  |   Média |
+| [198. House Robber](https://leetcode.com/problems/house-robber/description/) | Média |
+| [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/?envType=problem-list-v2&envId=dynamic-programming) | Difícil |
 
 
 ## Screenshots
